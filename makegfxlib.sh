@@ -1,0 +1,2 @@
+cd gfxlib
+make
